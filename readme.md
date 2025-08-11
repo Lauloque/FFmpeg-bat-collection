@@ -1,6 +1,6 @@
 # ffmpeg Bat Collection
 
-[![GitHub license](https://img.shields.io/github/license/L0Lock/ffmpeg-bat-collection)](https://github.com/L0Lock/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
+[![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection)](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
 
 A collection of .bat files for some usefull ffmpeg conversions.
 
@@ -65,7 +65,7 @@ These files are made to be the simplest to use :
 Same general usage. But:  
 To make it work, you need to have your picture file in the same folder as the source video, named as `cover.jpg`.
 
-![demo covers](https://github.com/L0Lock/FFmpeg-bat-collection/raw/master/assets/img/covers_demo.jpg)
+![demo covers](https://github.com/Lauloque/FFmpeg-bat-collection/raw/master/assets/img/covers_demo.jpg)
 
 Do check those links first:
 
@@ -86,7 +86,7 @@ Uses Windows' "Courier New" font in bold by default, with a two-digits zero padd
 - Replace the font path line 8 in `fontfile=/Windows/Fonts/courbd.ttf` (**on Windows, don't use `\` nor incllude the drive letter like `C:`)
 - Change the `2` to whatever digit number line 8 in `{eif\:n\:d\:2}`
 
-![demo frame number](https://github.com/L0Lock/FFmpeg-bat-collection/raw/master/assets/img/frame_number_demo.gif)
+![demo frame number](https://github.com/Lauloque/FFmpeg-bat-collection/raw/master/assets/img/frame_number_demo.gif)
 
 ### Images sequence to X conversion
 

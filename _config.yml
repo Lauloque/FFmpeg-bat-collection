@@ -5,7 +5,7 @@ show_downloads: true
 
 # List of links in the navigation bar
 navbar-links:
-  View on GitHub: "https://github.com/L0Lock/FFmpeg-bat-collection"
+  View on GitHub: "https://github.com/Lauloque/FFmpeg-bat-collection"
   Resources:
     - FFmpeg Homepage: "https://ffmpeg.org/"
     - FFmpeg Documentation: "https://ffmpeg.org/ffmpeg.html"

@@ -7,7 +7,7 @@ set cmd="ffprobe -v error -show_entries format=duration -of default=noprint_wrap
 FOR /F "tokens=*" %%i IN (' %cmd% ') DO SET seconds=%%i
 echo aaaa
 echo aaaa
-SET /A "totalBitrate=64000/seconds"
+SET /A "totalBitrate=84000/seconds"
 SET overheadBitrate=100
 SET audioBitrate=96
 SET /A "videoBitrate=totalBitrate-audioBitrate-overheadBitrate"
@@ -33,7 +33,7 @@ goto:again
 
 :error
 
-echo [93mThere was an error. Please check your input file or report an issue on github.com/L0Lock/FFmpeg-bat-collection/issues.[0m
+echo [93mThere was an error. Please check your input file or report an issue on https://github.com/Lauloque/FFmpeg-bat-collection/issues.[0m
 pause
 exit 0
 
