@@ -1,6 +1,6 @@
 # ffmpeg Bat Collection
 
-[![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection)](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
+[![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection?style=for-the-badge&labelColor=rgb(64,64,64))](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
 
 =======
 
