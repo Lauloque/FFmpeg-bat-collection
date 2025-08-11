@@ -2,9 +2,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection?style=for-the-badge&labelColor=rgb(64,64,64))](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
 
-=======
-
-
 A collection of .bat files for some usefull ffmpeg conversions.
 
 Bat files are supported in windows only.
@@ -162,7 +159,7 @@ Converts an EXR image sequence into a MP4 video, with settings specific to EXR f
 
 #### [Video Rotate Hard](Video_Rotate_Hard.bat)
 
-Rotates the video by 90° or 180° in either direction you like, by re-encoding the video.
+Rotates the video by 90° or 180° in either direction you like, by re-encoding the video into a VP9 stream.
 
 #### [Video Rotate Soft](Video_Rotate_Soft.bat)
 
