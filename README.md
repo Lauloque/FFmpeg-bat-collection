@@ -1,6 +1,6 @@
 # ffmpeg Bat Collection
 
-[![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection?style=for-the-badge&labelColor=rgb(64,64,64))](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H818FHX)
+[![GitHub license](https://img.shields.io/github/license/Lauloque/ffmpeg-bat-collection?style=for-the-badge&labelColor=rgb(64,64,64))](https://github.com/Lauloque/FFmpeg-bat-collection/blob/master/LICENSE.sql)  [![ko-fi](https://img.shields.io/badge/Support%20me%20on-KoFi-red?style=for-the-badge&logo=kofi&labelColor=cyan&logoColor=red)](https://ko-fi.com/H2H818FHX)
 
 A collection of .bat files for some usefull ffmpeg conversions.
 
