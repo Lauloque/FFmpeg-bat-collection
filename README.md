@@ -4,6 +4,11 @@
 
 A collection of .bat files for some usefull ffmpeg conversions.
 
+## Motivation
+
+I often use ffmpeg for simple short-lived tasks, but repeated many times with small variants.
+This repo serves me as a base for common solutions used, sometimes allow to input the most often changed variables, so that I can use ffmpeg's power at low cost.
+
 Bat files are supported in windows only.
 
 ## Installation
@@ -41,9 +46,9 @@ Bat files work on their own, but you need to have the latest versions of ffmpeg 
 
 </details>
 
-## How to use
 
-### General usage
+
+## Quick Start
 
 I.E. with files named as "*Video_TO_xxx.bat*".
 
@@ -53,6 +58,8 @@ These files are made to be the simplest to use :
 2. a command prompt window opens during the process;
 3. once finished, the window disapears;
 4. the new files are located aside the originals.
+
+## Usage
 
 ### Add Cover to X
 
@@ -232,3 +239,11 @@ Creates a MP4 file made to be readable in most web services. While also making s
 Creates a video file readable by discord and within the 8MB file size limit. Note that it adapts the encoding quality depending of the video duration. The longer the video, the uglier it gets. Dont try to send your movies with that :wink: .
 
 </div>
+
+## Contributing
+
+Contributions welcome, please make sure to:
+
+
+- Follow the color theming and completion notification
+- Follow the same user prompting workflow
